@@ -1750,8 +1750,110 @@ body {
 }
 .cid-qGzcDVIFWW .nav-link:hover,
 .cid-qGzcDVIFWW .dropdown-item:hover {
-  color: #767676 !important;
+  color: #ffffff !important;
 }
 .cid-qGzcV8yO0b {
   background-image: url("../../../assets/images/modern-kitchen-1-640x428.jpg");
+}
+.cid-qGCBvP8zq4 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qGCBvP8zq4 .content {
+    text-align: center;
+  }
+  .cid-qGCBvP8zq4 .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qGCBvP8zq4 .img-logo img {
+  height: 6rem;
+}
+.cid-qGCBvP8zq4 [type="email"] {
+  font-size: .75rem;
+  margin-bottom: 5px;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-qGCBvP8zq4 .input-group-btn {
+  display: inline-block;
+}
+.cid-qGCBvP8zq4 .input-group-btn a.btn {
+  margin: 0 !important;
+}
+.cid-qGCBvP8zq4 .input-group {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qGCBvP8zq4 [type="submit"] {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+}
+.cid-qGCBvP8zq4 .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.cid-qGCBvP8zq4 .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qGCBvP8zq4 .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qGCBvP8zq4 .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qGCBvP8zq4 .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qGCBvP8zq4 .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qGCBvP8zq4 .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qGCBvP8zq4 .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qGCBvP8zq4 form .input-group input.form-control,
+.cid-qGCBvP8zq4 form .input-group-btn .btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.cid-qGCBvP8zq4 .form-inline {
+  justify-content: center;
+}
+.cid-qGCBvP8zq4 .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-qGCBvP8zq4 .foot-logo {
+    text-align: center !important;
+  }
+  .cid-qGCBvP8zq4 .foot-title {
+    text-align: center !important;
+  }
+  .cid-qGCBvP8zq4 .mbr-text {
+    text-align: center !important;
+  }
 }
